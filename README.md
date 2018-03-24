@@ -1,6 +1,10 @@
 # javascript-toolkit
 List my of preferred tools to work on JavaScript-based application.
 
+# Code formatter
+
+- [Prettier](prettier.io)
+
 # Images
 
 - PlaceIMG. https://placeimg.com/
