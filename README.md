@@ -1,6 +1,10 @@
 # javascript-toolkit
 List my of preferred tools to work on JavaScript-based application.
 
+## IDE
+
+- [Visual Studio Code](https://code.visualstudio.com/). I really like this free and reliable editor because it has the IntelliSense feature.
+
 ## CLI framework
 
 At the moment, [oclif](https://github.com/oclif/oclif) is the most active project I can rely on to build Node.js-based CLI app.
