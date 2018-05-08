@@ -18,6 +18,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - PlaceIMG. https://placeimg.com/
 - [Pexels](https://www.pexels.com/). Free stock photos.
 - [Unsplash](https://unsplash.com). https://unsplash.com
+- [Findshot](https://findshot.com/)
 
 ## Useful Codepens
 
