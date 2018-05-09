@@ -20,6 +20,13 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [Unsplash](https://unsplash.com). https://unsplash.com
 - [Findshot](https://findshot.com/)
 
+## Mocking Tools
+
+- [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
+- [Sinon.js](http://sinonjs.org/)
+
+
+
 ## Useful Codepens
 
 - [4 ways to unit test JS in Codepen
