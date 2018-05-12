@@ -25,7 +25,9 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
 - [Sinon.js](http://sinonjs.org/)
 
+## Logging
 
+- Logging library in Node.js [pino: super fast, all natural json logger](https://github.com/pinojs/pino)
 
 ## Useful Codepens
 
