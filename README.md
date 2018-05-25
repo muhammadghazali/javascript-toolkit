@@ -33,3 +33,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 - [4 ways to unit test JS in Codepen
 ](https://codepen.io/brownerd/post/4-ways-to-unit-test-js-in-codepen)
+
+## Scheduled Jobs
+
+- [Agenda](https://github.com/agenda/agenda). Lightweight job scheduling for Node.js 
