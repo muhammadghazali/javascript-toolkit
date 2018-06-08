@@ -37,3 +37,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 ## Scheduled Jobs
 
 - [Agenda](https://github.com/agenda/agenda). Lightweight job scheduling for Node.js 
+
+# Hosting
+
+- [Surge](https://surge.sh). Static web publishing for Front-End Developers.
