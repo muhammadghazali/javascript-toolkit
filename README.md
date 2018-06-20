@@ -21,6 +21,10 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [Unsplash](https://unsplash.com). https://unsplash.com
 - [Findshot](https://findshot.com/)
 
+## Testing
+
+- [Artillery](https://artillery.io). Load testing the servers.
+
 ## Mocking Tools
 
 - [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
