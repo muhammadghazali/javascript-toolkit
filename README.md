@@ -46,3 +46,4 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 # Hosting
 
 - [Surge](https://surge.sh). Static web publishing for Front-End Developers.
+- [Netlify](https://www.netlify.com/). Drop-dead simple deployment workflow. 
