@@ -29,6 +29,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 - [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
 - [Sinon.js](http://sinonjs.org/)
+- [Chance](https://chancejs.com/). Generator of random strings, numbers, etc. to help reduce some monotony particularly while writing automated tests or anywhere else you need anything random
 
 ## Logging
 
