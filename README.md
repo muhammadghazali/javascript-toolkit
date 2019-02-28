@@ -21,6 +21,10 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [Unsplash](https://unsplash.com). https://unsplash.com
 - [Findshot](https://findshot.com/)
 
+## Compressor
+
+- Uglifyjs is kind of outdated. The new alternative is [Terser](https://www.npmjs.com/package/terser).
+
 ## Testing
 
 - [Artillery](https://artillery.io). Load testing the servers.
