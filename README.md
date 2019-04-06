@@ -51,6 +51,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 # Utilities
 
 - [currency.js](https://currency.js.org)
+- [uuid](https://www.npmjs.com/package/uuid)
 
 # Hosting
 
