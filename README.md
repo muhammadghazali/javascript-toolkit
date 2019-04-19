@@ -55,8 +55,8 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 - [currency.js](https://currency.js.org)
 - [uuid](https://www.npmjs.com/package/uuid)
-- [List of all the known languages in their English and Native name with locales
-](https://github.com/mozilla/language-mapping-list)
+- [language-mapping-list
+](https://github.com/mozilla/language-mapping-list). List of all the known languages in their English and Native name with locales.
 
 # Hosting
 
