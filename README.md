@@ -1,9 +1,12 @@
 # javascript-toolkit
 List my of preferred tools to work on JavaScript-based application.
 
-## IDE
+## Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/). I really like this free and reliable editor because it has the IntelliSense feature.
+- [RunKit](https://runkit.com). 
+RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.
+- [CodeSandbox](https://codesandbox.io/). The online code editor for Web.
 
 ## CLI framework
 
@@ -47,12 +50,6 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 ## Scheduled Jobs
 
 - [Agenda](https://github.com/agenda/agenda). Lightweight job scheduling for Node.js
-
-# Playground
-
-- [RunKit](https://runkit.com). 
-RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.
-- [CodeSandbox](https://codesandbox.io/). The online code editor for Web.
 
 # Utilities
 
