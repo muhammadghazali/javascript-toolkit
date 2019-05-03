@@ -57,6 +57,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [uuid](https://www.npmjs.com/package/uuid)
 - [language-mapping-list
 ](https://github.com/mozilla/language-mapping-list). List of all the known languages in their English and Native name with locales.
+- [Transform SVGs into React components.](https://github.com/smooth-code/svgr)
 
 # Hosting
 
