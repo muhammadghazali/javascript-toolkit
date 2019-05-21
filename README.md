@@ -30,6 +30,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 ## Testing
 
+- [JS Testing Framework](https://jestjs.io/).
 - [Artillery](https://artillery.io). Load testing the servers.
 
 ## Mocking Tools
@@ -53,6 +54,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 # Utilities
 
+- [Highlight select fragments of a string using an HTML element and/or a class](https://www.npmjs.com/package/react-highlighter)
 - [currency.js](https://currency.js.org)
 - [uuid](https://www.npmjs.com/package/uuid)
 - [language-mapping-list
