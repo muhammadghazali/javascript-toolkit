@@ -62,6 +62,10 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [Transform SVGs into React components.](https://github.com/smooth-code/svgr)
 - [Build forms in React, without tears](https://jaredpalmer.com/formik/)
 
+# Security
+
+- [An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js](https://github.com/casbin/node-casbin)
+
 # Hosting
 
 - [Surge](https://surge.sh). Static web publishing for Front-End Developers.
