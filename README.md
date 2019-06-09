@@ -30,7 +30,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 ## Testing
 
-- [JS Testing Framework](https://jestjs.io/).
+- [Jest: JS Testing Framework](https://jestjs.io/).
 - [Artillery](https://artillery.io). Load testing the servers.
 
 ## Mocking Tools
