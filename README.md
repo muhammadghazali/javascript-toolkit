@@ -66,6 +66,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 # Security
 
 - [An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js](https://github.com/casbin/node-casbin)
+- Validation Libraries: [validate.js](https://github.com/ansman/validate.js), [joi](https://github.com/hapijs/joi)
 
 # Hosting
 
