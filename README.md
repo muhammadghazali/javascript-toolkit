@@ -62,7 +62,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 ](https://github.com/mozilla/language-mapping-list). List of all the known languages in their English and Native name with locales.
 - [Transform SVGs into React components.](https://github.com/smooth-code/svgr)
 - [Build forms in React, without tears](https://jaredpalmer.com/formik/)
-- [Retrying made simple, easy and async]https://github.com/zeit/async-retry.
+- Retrying promise operation: [node-promise-retry](https://github.com/IndigoUnited/node-promise-retry), [async-retry](https://github.com/zeit/).
 
 # Security
 
