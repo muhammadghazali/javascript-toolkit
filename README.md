@@ -63,6 +63,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 - [Transform SVGs into React components.](https://github.com/smooth-code/svgr)
 - [Build forms in React, without tears](https://jaredpalmer.com/formik/)
 - Retrying promise operation: [node-promise-retry](https://github.com/IndigoUnited/node-promise-retry), [async-retry](https://github.com/zeit/).
+- [Nodemon](https://nodemon.io/). Utility that will monitor for any changes in your source and automatically restart your server. Perfect for development.
 
 # Security
 
