@@ -8,6 +8,11 @@ List my of preferred tools to work on JavaScript-based application.
 RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.
 - [CodeSandbox](https://codesandbox.io/). The online code editor for Web.
 
+## Framework
+
+- [GatsbyJS](https://www.gatsbyjs.org/)
+- [NextJS](https://nextjs.org/)
+
 ## CLI framework
 
 At the moment, [oclif](https://github.com/oclif/oclif) is the most active project I can rely on to build Node.js-based CLI app.
