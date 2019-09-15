@@ -60,6 +60,7 @@ At the moment, [oclif](https://github.com/oclif/oclif) is the most active projec
 
 # Utilities
 
+- [Convert object keys to camel case using camelcase](https://www.npmjs.com/package/camelcase-keys). Note that if the key are an array than the items inside is an object than it will not be converted to `camelCase`
 - [Highlight select fragments of a string using an HTML element and/or a class](https://www.npmjs.com/package/react-highlighter)
 - [currency.js](https://currency.js.org)
 - [uuid](https://www.npmjs.com/package/uuid)
