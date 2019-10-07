@@ -16,15 +16,15 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [NextJS](https://nextjs.org/)
 - [Angular](https://angular.io/)
 
-## Backend
+### Backend
 
 - [Express: Fast, unopinionated, minimalist web framework for Node.js](http://expressjs.com)
 - [hapi: Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality](https://hapi.dev/)
 - [Koa: smaller, more expressive, and more robust foundation for web applications and APIs](https://koajs.com/)
 
-## CLI framework
+### CLI framework
 
-At the moment, [oclif](https://github.com/oclif/oclif) is the most active project I can rely on to build Node.js-based CLI app.
+- At the moment, [oclif](https://github.com/oclif/oclif) is the most active project I can rely on to build Node.js-based CLI app.
 
 ## Code formatter
 
