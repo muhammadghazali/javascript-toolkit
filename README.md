@@ -7,6 +7,7 @@ List my of preferred tools to work on JavaScript-based application.
 - [RunKit](https://runkit.com). 
 RunKit notebooks are interactive javascript playgrounds connected to a complete node environment right in your browser. Every npm module pre-installed.
 - [CodeSandbox](https://codesandbox.io/). The online code editor for Web.
+- [Quill](https://quilljs.com/). Modern rich text editor built for compatibility and extensibility.
 
 ## Framework
 
