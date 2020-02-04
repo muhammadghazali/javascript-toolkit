@@ -49,6 +49,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [Jest: JS Testing Framework](https://jestjs.io/)
 - [Artillery](https://artillery.io). Load testing the servers
 - [Cypress: Fast, easy and reliable testing for anything that runs in a browser](https://www.cypress.io/)
+- [Mirage JS: API mocking library](https://miragejs.com/)
 
 ## Mocking Tools
 
