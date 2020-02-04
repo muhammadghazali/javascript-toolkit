@@ -50,6 +50,8 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [Artillery](https://artillery.io). Load testing the servers
 - [Cypress: Fast, easy and reliable testing for anything that runs in a browser](https://www.cypress.io/)
 - [Mirage JS: API mocking library](https://miragejs.com/)
+- [Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions](https://netflix.github.io/pollyjs)
+- [HTTP server mocking and expectations library for Node.js](https://github.com/nock/nock)
 
 ## Mocking Tools
 
