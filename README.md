@@ -88,6 +88,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [verge: Get viewport dimensions, detect elements in the viewport](https://github.com/ryanve/verge)
 - [res: Device resolution detection module](https://github.com/ryanve/res)
 - [faker.js - generate massive amounts of fake data in the browser and node.js](https://www.npmjs.com/package/faker)
+- [Create, read and edit .zip files](https://github.com/Stuk/jszip)
 
 # Security
 
