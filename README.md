@@ -22,6 +22,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [Express: Fast, unopinionated, minimalist web framework for Node.js](http://expressjs.com)
 - [hapi: Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality](https://hapi.dev/)
 - [Koa: smaller, more expressive, and more robust foundation for web applications and APIs](https://koajs.com/)
+- [Fastify: Fast and low overhead web framework](https://github.com/fastify/fastify). Use this framework if the requirements are expecting the server to handle more significant number of request. See [the benchmark](https://github.com/fastify/benchmarks).
 
 ### CLI-related tools
 
