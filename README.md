@@ -93,6 +93,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [Simple, programmatic `/etc/hosts` manipulation](https://github.com/feross/hostile)
 - [Easily read/write JSON files in Node.js](https://www.npmjs.com/package/jsonfile)
 - [form-data](https://www.npmjs.com/package/form-data)
+- [minimist](https://github.com/substack/minimist). Parse argument options.
 
 # Security
 
