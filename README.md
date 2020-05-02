@@ -104,3 +104,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 
 - [Surge](https://surge.sh). Static web publishing for Front-End Developers.
 - [Netlify](https://www.netlify.com/). Drop-dead simple deployment workflow. 
+- Deploy MEAN stack using on AWS: [MEAN Certified by Bitnami](https://aws.amazon.com/marketplace/pp/B00NO1HJ56?qid=1588443370516&sr=0-2&ref_=srh_res_product_title)
+- Node.js on AWS [Node.js Certified by Bitnami](https://aws.amazon.com/marketplace/pp/B00NNZUAKO?qid=1588443370516&sr=0-1&ref_=srh_res_product_title#pdp-usage)
+- [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+- [Heroku](https://www.heroku.com/)
