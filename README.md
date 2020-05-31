@@ -94,6 +94,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [Easily read/write JSON files in Node.js](https://www.npmjs.com/package/jsonfile)
 - [form-data](https://www.npmjs.com/package/form-data)
 - [minimist](https://github.com/substack/minimist). Parse argument options.
+- [query-string: Parse query string from a URL](https://www.npmjs.com/package/query-string)
 
 # Security
 
