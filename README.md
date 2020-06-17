@@ -95,6 +95,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [form-data](https://www.npmjs.com/package/form-data)
 - [minimist](https://github.com/substack/minimist). Parse argument options.
 - [query-string: Parse query string from a URL](https://www.npmjs.com/package/query-string)
+- [mime-types](https://www.npmjs.com/package/mime-types)
 
 # Security
 
