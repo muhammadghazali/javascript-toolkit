@@ -29,6 +29,11 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [oclif](https://github.com/oclif/oclif) is the most active project I can rely on to build Node.js-based CLI app.
 - [Yargs](https://github.com/yargs/yargs) helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
 
+## Content Management
+
+- [Strapi](https://strapi.io/)
+- [Ghost](https://ghost.org/)
+
 ## Code formatter
 
 - [Prettier](prettier.io)
