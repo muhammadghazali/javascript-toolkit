@@ -101,7 +101,8 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [minimist](https://github.com/substack/minimist). Parse argument options.
 - [query-string: Parse query string from a URL](https://www.npmjs.com/package/query-string)
 - [mime-types](https://www.npmjs.com/package/mime-types)
-- [Nodemailer](https://nodemailer.com/). A module to allow easy as cake email sending.
+- [Nodemailer](https://nodemailer.com/). Module to allow easy as cake email sending.
+- [classnames](https://github.com/JedWatson/classnames). Simple javascript utility for conditionally joining classNames together
 
 # Security
 
