@@ -102,7 +102,8 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [query-string: Parse query string from a URL](https://www.npmjs.com/package/query-string)
 - [mime-types](https://www.npmjs.com/package/mime-types)
 - [Nodemailer](https://nodemailer.com/). Module to allow easy as cake email sending.
-- [classnames](https://github.com/JedWatson/classnames). Simple javascript utility for conditionally joining classNames together
+- [classnames](https://github.com/JedWatson/classnames). Simple javascript utility for conditionally joining classNames together.
+- [clipboard.js](https://github.com/zenorocha/clipboard.js.git). A modern approach to copy text to clipboard.
 
 # Security
 
