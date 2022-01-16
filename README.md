@@ -1,6 +1,11 @@
 # javascript-toolkit
 List my of preferred tools to work on JavaScript-based application.
 
+## Cheatsheets
+
+- https://youmightnotneedjquery.com/
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+
 ## Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/). I really like this free and reliable editor because it has the IntelliSense feature.
@@ -78,7 +83,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 
 - [Agenda](https://github.com/agenda/agenda). Lightweight job scheduling for Node.js
 
-# Utilities
+## Utilities
 
 - [Convert object keys to camel case using camelcase](https://www.npmjs.com/package/camelcase-keys). Note that if the key are an array than the items inside is an object than it will not be converted to `camelCase`
 - [Highlight select fragments of a string using an HTML element and/or a class](https://www.npmjs.com/package/react-highlighter)
@@ -106,12 +111,12 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [clipboard.js](https://github.com/zenorocha/clipboard.js.git). A modern approach to copy text to clipboard.
 - https://hashids.org/. generate short unique ids from integers
 
-# Security
+## Security
 
 - [An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js](https://github.com/casbin/node-casbin)
 - Validation Libraries: [validate.js](https://github.com/ansman/validate.js), [joi](https://github.com/hapijs/joi)
 
-# Hosting
+## Hosting
 
 - [Surge](https://surge.sh). Static web publishing for Front-End Developers.
 - [Netlify](https://www.netlify.com/). Drop-dead simple deployment workflow. 
