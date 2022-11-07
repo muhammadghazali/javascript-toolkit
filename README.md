@@ -22,12 +22,18 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [NextJS](https://nextjs.org/)
 - [Angular](https://angular.io/)
 
+#### File upload
+
+- [Drag and drop file upload](https://www.dropzone.dev/)
+
+
 ### Backend
 
 - [Express: Fast, unopinionated, minimalist web framework for Node.js](http://expressjs.com)
 - [hapi: Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality](https://hapi.dev/)
 - [Koa: smaller, more expressive, and more robust foundation for web applications and APIs](https://koajs.com/)
 - [Fastify: Fast and low overhead web framework](https://github.com/fastify/fastify). Use this framework if the requirements are expecting the server to handle more significant number of request. See [the benchmark](https://github.com/fastify/benchmarks).
+- [Nestjs](https://docs.nestjs.com/providers)
 
 ### CLI-related tools
 
@@ -99,7 +105,7 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 - [verge: Get viewport dimensions, detect elements in the viewport](https://github.com/ryanve/verge)
 - [res: Device resolution detection module](https://github.com/ryanve/res)
 - [faker.js - generate massive amounts of fake data in the browser and node.js](https://www.npmjs.com/package/faker)
-- [Create, read and edit .zip files](https://github.com/Stuk/jszip)
+- [Create, read and edit .zip](https://github.com/Stuk/jszip)
 - [Simple, programmatic `/etc/hosts` manipulation](https://github.com/feross/hostile)
 - [Easily read/write JSON files in Node.js](https://www.npmjs.com/package/jsonfile)
 - [form-data](https://www.npmjs.com/package/form-data)
