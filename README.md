@@ -26,6 +26,10 @@ RunKit notebooks are interactive javascript playgrounds connected to a complete 
 
 - [Drag and drop file upload](https://www.dropzone.dev/)
 
+### Authorization Library
+
+- https://github.com/casbin/node-casbin
+- https://casl.js.org/
 
 ### Backend
 
